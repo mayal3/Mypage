@@ -1,1 +1,13 @@
-style
+p {
+  color: black;
+  background-color: white;
+}
+
+#lede {
+  color: black;
+  font-size: 24px;
+}
+
+body {
+  background-color: white;
+}
