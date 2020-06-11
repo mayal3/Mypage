@@ -1,10 +1,10 @@
 p {
-  color: blue;
-  background-color: beige;
+  color: black;
+  background-color: white;
 }
 
 #lede {
-  color: blue;
+  color: black;
   font-size: 24px;
 }
 
@@ -12,7 +12,3 @@ body {
   background-color: #e7edce;
 }
 
-#dynamic {
-  font-style: italic;
-  text-align: center;
-}
