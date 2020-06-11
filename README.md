@@ -6,10 +6,11 @@ Some basic starter files and patterns;
 
 Basic Html, CSS and JS
 
-#Locator
+# Locator
 
 HTML5 geolocation with mapbox
 
-#D3
+# D3
 
 Basic D3 example
+
